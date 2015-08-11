@@ -1,0 +1,7 @@
+C:\projects\Homer\Planner\auth\Acadametrics.API\Acadametrics.Data.Interfaces\bin\Debug\Acadametrics.Data.Interfaces.dll
+C:\projects\Homer\Planner\auth\Acadametrics.API\Acadametrics.Data.Interfaces\bin\Debug\Acadametrics.Data.Interfaces.pdb
+C:\projects\Homer\Planner\auth\Acadametrics.API\Acadametrics.Data.Interfaces\bin\Debug\Acadametrics.Data.Enums.dll
+C:\projects\Homer\Planner\auth\Acadametrics.API\Acadametrics.Data.Interfaces\bin\Debug\Acadametrics.Data.Enums.pdb
+C:\projects\Homer\Planner\auth\Acadametrics.API\Acadametrics.Data.Interfaces\obj\Debug\Acadametrics.Data.Interfaces.csprojResolveAssemblyReference.cache
+C:\projects\Homer\Planner\auth\Acadametrics.API\Acadametrics.Data.Interfaces\obj\Debug\Acadametrics.Data.Interfaces.dll
+C:\projects\Homer\Planner\auth\Acadametrics.API\Acadametrics.Data.Interfaces\obj\Debug\Acadametrics.Data.Interfaces.pdb
