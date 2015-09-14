@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Academetrics.Data.Objects.Interfaces
 {
-	public interface IUser : ITableModel
+  public interface IUser : ITableModel
 	{
 		int Age { get; set; }
 		IList<Guid> Children { get; set; }
