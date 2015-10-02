@@ -12,7 +12,6 @@ namespace Academetrics.Data.Objects.Interfaces
 		int DayOfBirth { get; set; }
 		string Email { get; set; }
 		string FirstName { get; set; }
-		string FullName { get; }
 		Gender Gender { get; set; }
 		string Initials { get; set; }
 		IList<Guid> Institutions { get; set; }

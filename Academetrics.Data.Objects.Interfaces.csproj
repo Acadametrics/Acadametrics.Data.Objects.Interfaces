@@ -59,6 +59,7 @@
     <Compile Include="IUser.cs" />
     <Compile Include="IUserClaims.cs" />
     <Compile Include="IUserCredentials.cs" />
+    <Compile Include="IUserPeriods.cs" />
     <Compile Include="IUserRoles.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

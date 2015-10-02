@@ -10,6 +10,9 @@ namespace Academetrics.Data.Objects.Interfaces
 		string Url { get; set; }
 		string Name { get; set; }
 		string TownCity { get; set; }
-		string[] SetCodes { get; set; }
+    string County { get; set; }
+    string Country { get; set; }
+    string PostalCode { get; set; }
+    string[] SetCodes { get; set; }
 	}
 }

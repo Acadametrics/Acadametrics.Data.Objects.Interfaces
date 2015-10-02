@@ -8,5 +8,6 @@ namespace Academetrics.Data.Objects.Interfaces
 	{
 		List<ClaimType> Claims { get; set; }
 		Guid InstitutionId { get; set; }
-	}
+    Guid UserId { get; set; }
+  }
 }
