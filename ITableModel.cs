@@ -12,6 +12,7 @@ namespace Academetrics.Data.Objects.Interfaces
 		string CacheKey { get; set; }
 		string MapKey { get; set; }
 		DateTimeOffset Timestamp { get; set; }
+
 		//void AssignEntityKeys(Guid partitionKey, Guid rowKey);
 		//void AssignEntityKeys(Guid partitionKey, string rowKey);
 		//void AssignEntityKeys(string partitionKey, Guid rowKey);
